@@ -1,0 +1,9 @@
+{
+  "name": "ambiguous-logs-exhibition",
+  "version": "1.0.0",
+  "description": "어중간한 사람들의 실시간 로그 전시",
+  "main": "api/index.js",
+  "engines": {
+    "node": "18.x"
+  }
+}
